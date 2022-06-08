@@ -10,7 +10,7 @@ Version 1.3.2:
 Version 1.3.1 (initial GitHub upload):
 - Fixed Gemstone Weapons mod causing certain item rarity colors from displaying incorrectly
 - Fixed settings for Rocket Jumping which would cause some enemies from flying too much (could cause a softlock in certain situations)
-- This caused issues with Loot Marker  not recognizing legitimate Legendaries/Pearls/Seraphs, thus not showing up on the minimap when dropped
+- This caused issues with Loot Marker not recognizing legitimate Legendaries/Pearls/Seraphs, thus not showing up on the minimap when dropped
 
 Version 1.3.0:
 - Added Rocket Jumping mod
@@ -19,4 +19,6 @@ Version 1.3.0:
 - rebalanced Cryo as the last selected options were tuned too high
 - Stock parts now grant certain bonuses
 - Mag Size/Reload Speed Accessories (depending on the weapon type) now grant small ammo regen (look for the original mag/reload bonuses in the item card to know if you have it)
+- Accuracy accessory for SMGs has changed into a Double Accessory (x2 projectiles)
+- Bandit barrels now act like Anarchy barrels from BL1 (+1 projectiles)
 - More weapon replacers were added and slightly tuned/modified 
