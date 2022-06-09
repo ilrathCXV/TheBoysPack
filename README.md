@@ -4,6 +4,11 @@ Borderlands 2 modpack for our Discord Server
 If you experience any crashes, errors, or anomalies, push an issue and list what that problem is, what happened when finding it, and showing evidence/screenshots of the problem if possible. 
 
 # Changelog
+Version 1.3.3:
+- Replaced Cracked Sash with a new Pearl shield that grants Team Ammo Regen and user-Rocket regen
+- Replaced the Whiskey Tango Foxtrot with The Gundropper (booster shield that has a chance of dropping weapons when damaged)
+- Various bugfixes/merging with mods within the pack
+
 Version 1.3.2:
 - Added the Unofficial Community Patch to the modpack
 
