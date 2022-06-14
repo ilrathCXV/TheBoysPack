@@ -4,6 +4,14 @@ Borderlands 2 modpack for our Discord Server
 If you experience any crashes, errors, or anomalies, push an issue and list what that problem is, what happened when finding it, and showing evidence/screenshots of the problem if possible. 
 
 # Changelog
+Version 1.3.3a:
+- Balanced Maya's Passive Immolate mod to no longer apply Slag (has been returned to Fire damage)
+- Fixed Cryo's DoT on targets to better reflect that listed on item cards
+- Removed Cryo's extra damage to Armor as it invalidated Corrosive
+  - To re-iterate: Cryo does regular damage to Flesh and Armor but deals 30% reduced damage to Shields
+  - When an enemy is slowed (i.e. "slagged"), they take 300% Melee damage and 200% Crtical and Explosive damage
+  - Slowed targets have slower movement and their Rate of Fire is slightly decreased
+
 Version 1.3.3:
 - Replaced Cracked Sash with a new Pearl shield that grants Team Ammo Regen and user-Rocket regen
 - Replaced the Whiskey Tango Foxtrot with The Gundropper (booster shield that has a chance of dropping weapons when damaged)
