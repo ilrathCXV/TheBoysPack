@@ -9,7 +9,7 @@ Version 1.3.3a:
 - Fixed Cryo's DoT on targets to better reflect that listed on item cards
 - Removed Cryo's extra damage to Armor as it invalidated Corrosive
   - To re-iterate: Cryo does regular damage to Flesh and Armor but deals 30% reduced damage to Shields
-  - When an enemy is slowed (i.e. "slagged"), they take 300% Melee damage and 200% Crtical and Explosive damage
+  - When an enemy is slowed (i.e. "slagged"), they take 300% Melee damage and 200% Critical and Explosive damage
   - Slowed targets have slower movement and their Rate of Fire is slightly decreased
 
 Version 1.3.3:
